@@ -13,7 +13,7 @@ v 0.0.1
 
 目前版本基于python3，并使用了这些库：pandas，os, re, requests, argparse, BeautifulSoup 4. 
 
-如果你需要帮助配置python环境可以在豆瓣上私信我(https://www.douban.com/people/49528893/)，我会一一答复。配置过程很简单但不同系统不一样，就不在这里放全面的教程了。
+如果你需要帮助配置python环境可以在豆瓣上私信我<https://www.douban.com/people/49528893/>，我会一一答复。配置过程很简单但不同系统不一样，就不在这里放全面的教程了。
 
 使用：创建一个文本文档url_list.txt, 每一行粘贴一个专辑链接（暂时只支持discogs/bandcamp)，不能有空行。在命令行中运行：
 ~~~
